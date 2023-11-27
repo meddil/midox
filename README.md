@@ -1,0 +1,2 @@
+# midox
+wp_theme
